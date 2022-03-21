@@ -1,27 +1,3 @@
-// Book Class
-// class Book {
-//     constructor(title, author, isbn) {
-//         this.title = title;
-//         this.author = author;
-//         this.isbn = isbn;
-//     }
-// }
-
-// Create a Car Class
-
-// class Car {
-//
-//      constructor (name, type) {
-//         this.name = name;
-//         this.type = type;
-//     }
-// }
-
-// let carOne = new Car('Insight', 'Honda');
-// let carTwo = new Car('320i', 'BMW');
-
-// console.log(carOne.name)
-
 class BookList {
   constructor() {
     this.bookArr = [];
