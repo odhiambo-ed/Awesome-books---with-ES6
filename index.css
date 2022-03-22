@@ -9,9 +9,13 @@
   font-family: 'Nova Mono', monospace;
   font-size: 5vw;
   text-align: center;
-  text-shadow: 0px 0px 20px;
+  text-shadow: 0 0 20px;
 }
 
 footer {
-    background-color: #f1f1f1;
+  background-color: #f1f1f1;
+}
+
+.copyright {
+  background-color: rgba(0, 0, 0, 0.2);
 }
