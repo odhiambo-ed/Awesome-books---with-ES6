@@ -9,4 +9,4 @@ export default (bookList) => {
   document.querySelector('#author').value = '';
   document.querySelector('#title').value = '';
   document.querySelector('#isbn').value = '';
-}
+};

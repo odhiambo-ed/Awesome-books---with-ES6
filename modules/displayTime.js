@@ -9,4 +9,4 @@ export default () => {
     const humanReadable = date.toLocaleString(DateTime.DATETIME_MED);
     timeString.innerHTML = humanReadable;
   }, 1000);
-}
+};
