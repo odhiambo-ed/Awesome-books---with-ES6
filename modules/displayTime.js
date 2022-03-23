@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import { DateTime } from './luxon.js';
 
 export default () => {

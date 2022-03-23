@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 export default (bookList) => {
   const author = document.querySelector('#author').value;
   const title = document.querySelector('#title').value;

@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 export default class BookList {
   constructor() {
     this.bookArr = [];
@@ -46,7 +45,7 @@ export default class BookList {
     document.querySelector('#book-list').appendChild(tr);
   }
 
-  removeBook(isbn) {
+  removeNewBook(isbn) {
     this.bookArr = this.bookArr.filter((book) => book.isbn !== isbn);
 
     localStorage.setItem('books', JSON.stringify(this.bookArr));

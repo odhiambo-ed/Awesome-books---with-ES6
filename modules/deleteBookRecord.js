@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 export default (bookList, e) => {
   const deleteButton = e.target;
   if (
