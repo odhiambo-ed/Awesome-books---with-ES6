@@ -18,7 +18,7 @@ Use this url to clone the repo on your terminal: https://github.com/white3d/Awes
 
 👤 **Edward Odhiambo**
 
-![Profile Pic](Edward2.jpeg)
+![Profile Pic](Edward2.jpeg | width=250px)
 
 [Portfolio Website](https://odhiambo-edward.netlify.app/)
 
