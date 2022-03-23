@@ -1,10 +1,11 @@
 /* eslint-disable import/extensions */
-import { recordNewBook } from './modules/recordNewBook.js';
-import { deleteBookRecord } from './modules/deleteBookRecord.js';
+import recordNewBook from './modules/recordNewBook.js';
 
-import { BookList } from './modules/bookList.js';
+import deleteBookRecord from './modules/deleteBookRecord.js';
 
-import { showTime } from './modules/displayTime.js';
+import BookList from './modules/bookList.js';
+
+import showTime from './modules/displayTime.js';
 
 showTime();
 

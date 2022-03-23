@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-export const recordNewBook = (bookList) => {
+export default (bookList) => {
   const author = document.querySelector('#author').value;
   const title = document.querySelector('#title').value;
   const isbn = document.querySelector('#isbn').value;
@@ -9,4 +9,4 @@ export const recordNewBook = (bookList) => {
   document.querySelector('#author').value = '';
   document.querySelector('#title').value = '';
   document.querySelector('#isbn').value = '';
-};
+}

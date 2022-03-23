@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-export const deleteBookRecord = (bookList, e) => {
+export default (bookList, e) => {
   const deleteButton = e.target;
   if (
     deleteButton !== undefined

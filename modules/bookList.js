@@ -1,5 +1,5 @@
 /* eslint-disable import/prefer-default-export */
-class BookList {
+export default class BookList {
   constructor() {
     this.bookArr = [];
 
@@ -52,5 +52,3 @@ class BookList {
     localStorage.setItem('books', JSON.stringify(this.bookArr));
   }
 }
-
-export { BookList };
