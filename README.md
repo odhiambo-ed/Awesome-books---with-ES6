@@ -19,7 +19,7 @@ Use this url to clone the repo on your terminal: https://github.com/white3d/Awes
 👤 **Edward Odhiambo**
 
 
-<div style="width: 250px;">
+<div style="width: 100px;">
   
   ![Profile Pic](Edward2.jpeg)
   
