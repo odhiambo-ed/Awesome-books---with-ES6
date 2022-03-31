@@ -1,0 +1,21 @@
+@import 'https://fonts.googleapis.com/css?family=Nova+Mono|Eczar';
+
+#div1 {
+  /* transform: translateY(33%); */
+  align-self: center;
+}
+
+.time {
+  font-family: 'Nova Mono', monospace;
+  font-size: 3vw;
+  text-align: center;
+  text-shadow: 0 0 20px;
+}
+
+footer {
+  background-color: #f1f1f1;
+}
+
+.copyright {
+  background-color: rgba(0, 0, 0, 0.2);
+}
