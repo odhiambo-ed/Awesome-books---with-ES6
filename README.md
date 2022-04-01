@@ -1,5 +1,5 @@
 # Awesome-books---with-ES6
-This is my Awesome books app - ES6 Version
+This is my Awesome books app - ES6 Version. In this version of the BookList app, the various functions are divided and created in different module folder then later imported to an entry point Js file.
 
 ## Built With
 
